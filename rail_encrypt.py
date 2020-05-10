@@ -3,7 +3,7 @@
   
 # function to encrypt a message
 
-a=5
+
 
 def RailFenceEncrypt(plain_text, key):
   

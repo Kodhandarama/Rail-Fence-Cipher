@@ -2,7 +2,9 @@
 
   
 # function to encrypt a message
-a=15
+
+a=5
+
 def RailFenceEncrypt(plain_text, key):
   
     """create the matrix to cipher """

@@ -45,4 +45,4 @@ def RailFenceEncrypt(plain_text, key):
                 encrypted_text.append(rail[i][j])
     return("" . join(encrypted_text))
  
-
+ #first change for git

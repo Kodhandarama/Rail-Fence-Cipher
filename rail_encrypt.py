@@ -46,3 +46,5 @@ def RailFenceEncrypt(plain_text, key):
     return("" . join(encrypted_text))
  
  #first change for git
+
+#This is on new branch
